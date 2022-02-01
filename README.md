@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vikMaxKr
+- 👋 Hi, I’m vikash kumar
 - 👀 I’m interested in FULL STACK JAVA DEVELOMENT
-- 🌱 I’m currently learning spring and hibernate
-- 💞️ I’m looking to get hired as full stack developer
-- 📫 How to reach me ...
+- 🌱 I’m currently drilling spring and hibernate framework
+- 💞️ I’m looking software developer role in fast-paced tech environment .
+- 📫 How to reach me ...vikash17061997@gmail.com
 
 <!---
 vikMaxKr/vikMaxKr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
